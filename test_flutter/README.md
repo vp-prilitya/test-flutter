@@ -1,16 +1,23 @@
-# test_flutter
+# Test Flutter
 
-A new Flutter project.
+## Menjalankan aplikasi
 
-## Getting Started
+##### 1. Buka folder test_flutter di visual studio code
 
-This project is a starting point for a Flutter application.
+##### 2. Buka terminal jalan kan perintah
 
-A few resources to get you started if this is your first Flutter project:
+####
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### 3. Jalankan aplikasi dengan emulator
+
+####
+
+Run
+
+```
+flutter run
+```
